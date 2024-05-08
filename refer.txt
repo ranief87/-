@@ -1,0 +1,3 @@
+<참고한 사이트>
+
+- https://blog.naver.com/towards-ai/222517593026 (colab 환경에서 conda 설치)
