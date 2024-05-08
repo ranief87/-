@@ -1,0 +1,5 @@
+# Study Note
+
+- pytorch 사용 이전에
+- 논문 분석
+- colab에서 shell 명령어 실행시키려면 코드 앞에 ! 붙이면 가능
