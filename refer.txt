@@ -1,3 +1,4 @@
 <참고한 사이트>
 
 - https://blog.naver.com/towards-ai/222517593026 (colab 환경에서 conda 설치)
+- https://stackoverflow.com/questions/53031430/conda-environment-in-google-colab-google-colaboratory?newreg=61cc19457c2c466fb1ed0a82ba435b79 (colab 환경에서 conda 설치)
