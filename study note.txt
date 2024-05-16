@@ -9,3 +9,5 @@
 - 가상환경 설정
 - conda env create -f ---.yaml
 - conda activate ---
+- conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
+- pytorch가 안 깔려 있어서 설치. 12.3이 최신인데 이건 pytorch 호환이 안 됨
