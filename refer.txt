@@ -5,3 +5,4 @@
 - https://code.visualstudio.com/docs/remote/ssh#_remember-hosts-and-advanced-settings (vscode에서 ssh로 linux 서버 접속)
 - https://jh-bk.tistory.com/35 (conda 가상 환경 설정 방법)
 - https://apdo.tistory.com/46 (GPU 돌리는 데 필요한 설정 버전 확인)
+- https://pytorch.org/ (pytorch 설치를 위해서 https://pytorch.org/ <- 버전 확인)
