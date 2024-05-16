@@ -4,4 +4,6 @@
 - 논문 분석
 - colab에서 shell 명령어 실행시키려면 코드 앞에 ! 붙이면 가능
 
-- vscode에서 remote-ssh 깔고 서버 접속/host
+- vscode에서 remote-ssh 깔고 서버 접속/host 설정
+- 파일 github clone 또는 linux 서버에 들어가서 파일 업로드
+- 가상환경 설정
