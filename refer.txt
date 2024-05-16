@@ -4,3 +4,4 @@
 - https://stackoverflow.com/questions/53031430/conda-environment-in-google-colab-google-colaboratory?newreg=61cc19457c2c466fb1ed0a82ba435b79 (colab 환경에서 conda 설치)
 - https://code.visualstudio.com/docs/remote/ssh#_remember-hosts-and-advanced-settings (vscode에서 ssh로 linux 서버 접속)
 - https://jh-bk.tistory.com/35 (conda 가상 환경 설정 방법)
+- https://apdo.tistory.com/46 (GPU 돌리는 데 필요한 설정 버전 확인)
