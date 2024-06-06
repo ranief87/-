@@ -20,8 +20,7 @@
 - 창 나가도 종료 안 되게 하는 nohup 
 - 백그라운드 실행 &
 - nohup python A.py &
-- 라이브러리 thop 설치
-- conda install -c anaconda thop
+- 라이브러리 thop 설치 (conda여도 pip)
 - cat nohup.out
 - 출력이 어떻게 되는지 보기 위해서 nohup 로그 보기
 
