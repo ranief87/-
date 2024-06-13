@@ -34,7 +34,12 @@
 - 
 - 서버 성능 업그레이드로 인해 기존 가상환경 dependency 안 맞음
 - conda create -n 가상환경이름 python=특정버전
+- conda에 library가 머 깔려있는지 확인
 - conda list
 - 
-- pytorch down
+- pytorch download
 - https://pytorch.org/에서 조건 맞추면 알려줌
+- kornia download
+- conda config --add channels conda-forge
+- conda config --set channel_priority strict
+- conda install kornia
