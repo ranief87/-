@@ -11,6 +11,8 @@
 - conda activate ---
 - conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
 - pytorch가 안 깔려 있어서 설치. 12.3이 최신인데 이건 pytorch 호환이 안 됨
+- 가상환경 삭제
+- conda remove --name --- --all
 - map_location='cuda:0' <- cuda device 못 찾아
 - python interpreter를 conda 환경에 맞춰주기
 - conda search python
